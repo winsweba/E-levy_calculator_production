@@ -1,0 +1,8 @@
+{
+  "name": "apk_test",
+  "displayName": "apk_test",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-2635835949649414~6285138569",
+    "ios_app_id": "ca-app-pub-xxxxxxxx~xxxxxxxx"
+  }
+}

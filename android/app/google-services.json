@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "449823057947",
+    "project_id": "smiple-a5af4",
+    "storage_bucket": "smiple-a5af4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449823057947:android:c53e439ef62a2b07ae30be",
+        "android_client_info": {
+          "package_name": "com.e_levy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449823057947-djf1o67r0g302q8sjf4qh2mb4tqd5qkh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e_levy_app",
+            "certificate_hash": "25321bf5c8a6311bf0be774b98576468b81a90bb"
+          }
+        },
+        {
+          "client_id": "449823057947-ljnnbfvsjd8rv8r6376njp8jbpjgj3c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtCbORnwKqwod2YtsR_7hjPw5tZBKd78Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449823057947-ljnnbfvsjd8rv8r6376njp8jbpjgj3c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449823057947:android:a45fc70412c87499ae30be",
+        "android_client_info": {
+          "package_name": "com.explicit.elevy.wins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449823057947-ljnnbfvsjd8rv8r6376njp8jbpjgj3c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtCbORnwKqwod2YtsR_7hjPw5tZBKd78Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449823057947-ljnnbfvsjd8rv8r6376njp8jbpjgj3c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449823057947:android:6786db6d6885b135ae30be",
+        "android_client_info": {
+          "package_name": "com.explicit.elevygh.wins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449823057947-ljnnbfvsjd8rv8r6376njp8jbpjgj3c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtCbORnwKqwod2YtsR_7hjPw5tZBKd78Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449823057947-ljnnbfvsjd8rv8r6376njp8jbpjgj3c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449823057947:android:255390e440b28bc4ae30be",
+        "android_client_info": {
+          "package_name": "com.firstbleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449823057947-ljnnbfvsjd8rv8r6376njp8jbpjgj3c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtCbORnwKqwod2YtsR_7hjPw5tZBKd78Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449823057947-ljnnbfvsjd8rv8r6376njp8jbpjgj3c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
